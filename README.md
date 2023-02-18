@@ -10,6 +10,8 @@ ExtJS有商业版和GPL版本。其中GPL目前最新版是`6.2.0`，而商业�
 
 1. 你需要在网站上填写邮箱，取得下载链接：<https://www.sencha.com/legal/gpl/>。
    想直接`npm`下载或者找一个在线的cdn什么，都很难。
+   最终下载地址： https://cdn.sencha.com/ext/gpl/ext-6.2.0-gpl.zip
+   如果需要其它版本，直接在url中改版本号
 2. 收到邮件后，下载一个近200M的名为ext-6.2.0-gpl.zip的文件，解压到本地，比如`~/dev/ext-6.2.0`
 3. 安装一个命令行工具：`npm install -g @extjs/sencha-cmd@6.2.1`。
    这里需要注意，官方提供的gpl版本不是最新的，所以sencha-cmd这里也要安装一个旧版，不然会出一些奇怪的错。
