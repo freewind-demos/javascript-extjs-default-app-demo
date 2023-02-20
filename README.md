@@ -1,5 +1,12 @@
-JavaScript ExtJS Hello World Demo
+JavaScript ExtJS Sencha Generated App Demo
 =================================
+
+这个是由sencha命令生成的，特别复杂，把我搞晕了。
+
+实际上可以不用这么复杂的，见: https://github.com/freewind-demos/javascript-extjs-demo
+
+下面是之前的记录：
+-------
 
 使用ExtJS跟使用别的开源框架不一样，相当麻烦。它的教程上说“没有比我们更简单的了”，搞了我两个小时还没搞出来。
 
